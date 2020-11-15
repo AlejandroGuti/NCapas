@@ -1,0 +1,16 @@
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.deps.json
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Common.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Data.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Negocio.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Data.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Negocio.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\bin\Debug\netcoreapp3.1\APiTest.Common.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Infrastructure.IoC\obj\Debug\netcoreapp3.1\APiTest.Infrastructure.IoC.csproj.CopyComplete

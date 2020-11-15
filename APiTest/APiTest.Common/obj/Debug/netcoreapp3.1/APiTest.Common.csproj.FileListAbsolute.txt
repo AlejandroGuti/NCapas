@@ -1,0 +1,9 @@
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\bin\Debug\netcoreapp3.1\APiTest.Common.deps.json
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\bin\Debug\netcoreapp3.1\APiTest.Common.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\bin\Debug\netcoreapp3.1\APiTest.Common.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\obj\Debug\netcoreapp3.1\APiTest.Common.csprojAssemblyReference.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\obj\Debug\netcoreapp3.1\APiTest.Common.AssemblyInfoInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\obj\Debug\netcoreapp3.1\APiTest.Common.AssemblyInfo.cs
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\obj\Debug\netcoreapp3.1\APiTest.Common.csproj.CoreCompileInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\obj\Debug\netcoreapp3.1\APiTest.Common.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Common\obj\Debug\netcoreapp3.1\APiTest.Common.pdb

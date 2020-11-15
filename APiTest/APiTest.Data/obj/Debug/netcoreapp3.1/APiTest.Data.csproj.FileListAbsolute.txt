@@ -1,0 +1,15 @@
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Data.deps.json
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Data.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.csprojAssemblyReference.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.AssemblyInfoInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.AssemblyInfo.cs
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Data.runtimeconfig.json
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Data.runtimeconfig.dev.json
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Data.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.genruntimeconfig.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Common.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\bin\Debug\netcoreapp3.1\APiTest.Common.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.csproj.CopyComplete
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Data\obj\Debug\netcoreapp3.1\APiTest.Data.csproj.CoreCompileInputs.cache

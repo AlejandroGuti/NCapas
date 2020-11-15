@@ -1,0 +1,14 @@
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Negocio.deps.json
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Negocio.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Negocio.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.csprojAssemblyReference.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.AssemblyInfoInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.AssemblyInfo.cs
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Common.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Data.dll
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Common.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\bin\Debug\netcoreapp3.1\APiTest.Data.pdb
+C:\Users\alegu\OneDrive\Desktop\Godie\APiTest\APiTest.Negocio\obj\Debug\netcoreapp3.1\APiTest.Negocio.csproj.CopyComplete
